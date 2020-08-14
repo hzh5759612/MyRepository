@@ -6,4 +6,9 @@ public class Test {
     public void addUser(){
         System.out.println("public void addUser()");
     }
+
+    //作者二写了一个update()
+    public  void update(){
+        System.out.println("public  void update()");
+    }
 }
