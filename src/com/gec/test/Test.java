@@ -7,7 +7,7 @@ public class Test {
         System.out.println("public void addUser()");
     }
 
-    //作者二写了一个update()
+    //作者一写了一个update()
     public  void update(){
         System.out.println("public  void update()");
     }
